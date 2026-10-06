@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "id_1n2nkhdmuwv506f",
+    "id": "id_1n2nkhdmuwv506f",
+    "createdAt": "2026-10-06T15:58:19.431Z",
+    "updatedAt": "2026-10-06T15:58:19.431Z",
+    "maxTeamsPerSupervisor": 5,
+    "teamSize": 2,
+    "proposalSimilarityThreshold": 60,
+    "allowOwnTopic": true
+  }
+]

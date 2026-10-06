@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Preserve exact Word (.docx) image sizes, drawings, fonts, and alignment inside docx-preview */
+.docx-exact-view img,
+.docx-exact-view svg,
+.docx-exact-view canvas {
+  display: inline-block;
+  max-width: none !important;
+}
+
+.docx-exact-view table {
+  border-collapse: collapse;
+}
+

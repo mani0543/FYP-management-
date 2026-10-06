@@ -1,0 +1,8 @@
+{
+  "name": "Remix FYP Management System",
+  "description": "Comprehensive University Final Year Project Management Portal with Dynamic Academic Assignments, AI Proposal Analysis, and Document Workflows",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

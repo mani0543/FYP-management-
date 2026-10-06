@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "id_w9gjkdkmuwshezy",
+    "id": "id_w9gjkdkmuwshezy",
+    "createdAt": "2026-10-06T15:58:19.300Z",
+    "updatedAt": "2026-10-06T15:58:19.300Z",
+    "name": "System Administrator",
+    "email": "admin@university.edu",
+    "passwordHash": "$2b$10$29un5gv6k2expmO2eLvbN.ZUKlCndJTad4LHN6J5RPz8CAU.pFWj.",
+    "accountStatus": "ACTIVE",
+    "capabilities": [
+      "ADMIN"
+    ]
+  }
+]
